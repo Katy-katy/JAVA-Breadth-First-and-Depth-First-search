@@ -1,4 +1,4 @@
-# Image-Component Labeling (an Application of Breadth First and Depth First search)
+Image-Component Labeling (an Application of Breadth First and Depth First search)
 
 I wrote this program for my JAVA_С class at Foothill College.
 
