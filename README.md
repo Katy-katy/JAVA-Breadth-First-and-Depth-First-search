@@ -1,4 +1,4 @@
-##Image-Component Labeling (an Application of Breadth First and Depth First search)
+#Image-Component Labeling (an Application of Breadth First and Depth First search)
 
 ![Mockup for feature A](https://github.com/Katy-katy/JAVA-Breadth-First-and-Depth-First-search/blob/master/Screenshot_1.png)
 
